@@ -48,3 +48,23 @@ p {
     margin-bottom: 20px;
     text-indent: 2em;
 }
+#ingredients{
+    background-image: url("../img/list-bg.png");
+    height: 300px;
+
+}
+#banana label{
+    display:block;
+}
+#bananadiv {
+    margin-left: 50px;
+}
+fieldset {
+    padding-top: 45px;
+}
+label {
+    padding-bottom: 12px;
+}
+#bottom {
+    margin-top: 30px;
+}
