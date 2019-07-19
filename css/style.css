@@ -1,0 +1,50 @@
+#logo {
+  float: left;
+}
+#navpicsall {
+    float:right;
+}
+#navpicsall ul {
+    display:inline-block;
+}
+#navpics1 li, #navpics2 li {
+    display:inline-block;
+    margin-left: -2px;
+}
+#navpics2{
+    padding-left: 7px;
+}
+nav {
+    height: 75px;
+}
+hr{
+    background-image: url("../img/hr-img.png");
+    height: 10px;
+    border:none;
+}
+h1 {
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 30px;
+}
+#posted {
+    float: left;
+    font-weight: lighter;
+    color: rgb(151, 151, 151);
+}
+#print{
+    float: right;
+    font-weight: lighter;
+    color: rgb(151, 151, 151);
+}
+#bigdiv {
+    clear: both;
+
+}
+#bigdiv img {
+    margin: 20px 0px 15px 0px;
+}
+p {
+    margin-bottom: 20px;
+    text-indent: 2em;
+}
